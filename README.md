@@ -1,4 +1,4 @@
-[[![MasterHead](https://www.freepik.com/free-vector/coding-concept-illustration_6572420.htm#query=front%20end%20developer&position=44&from_view=keyword&track=ais&uuid=1e1d4f3d-d5b0-4c25-a9da-bb87d86336be)](https://unsplash.com/photos/black-flat-screen-computer-monitor-cFFEeHNZEqw)
+![MasterHead](https://wallpapercave.com/wp/wp9641825.jpg)
 <h1 align="center">Hi 👋, I'm Alper Kagan KORKMAZ</h1>
 <h3 align="center">I am a front-end web developer with proficiency in the core web languages HTML/CSS/Sass/Javascript and with experience building web apps with React.js. I am passionate about front-end development as technology innovation, and I have the drive and energy needed to consistently exceed expectations.</h3>
 
